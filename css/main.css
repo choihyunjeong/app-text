@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 16px 020px;
+    padding: 16px 0 20px;
 }
 .header .logo {
     width: 145px;
@@ -61,7 +61,7 @@ body {
 .main_visual .main_nav {
     display: flex;
     gap: 20px;
-    padding-left: 26px;
+    padding-left: 10px;
 }
 .main_visual .main_nav li button {
     font-size: 20px;
