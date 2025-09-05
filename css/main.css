@@ -60,8 +60,7 @@ body {
 }
 .main_visual .main_nav {
     display: flex;
-    gap: 20px;
-    padding-left: 10px;
+    gap: 16px;
 }
 .main_visual .main_nav li button {
     font-size: 20px;
@@ -188,7 +187,7 @@ body {
     margin-top: 100px;
 }
 .section-02 .title {
-    padding: 0 13px 0 10px;
+    padding: 0 13px 0 0;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -285,13 +284,13 @@ body {
 .section-03 .title {
     display: flex;
     justify-content: space-between;
-    padding: 0 13px 0 10px;
+    padding: 0 13px 0 0;
     align-items: flex-end;
     margin-bottom: 16px;
 }
 .section-03 .title .title_wrap {
     display: flex;
-    gap: 25px;
+    gap: 16px;
 }
 .section-03 .title .title_wrap h2 {
     font-size: 20px;
@@ -341,7 +340,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 0 13px 0 10px;
+    padding: 0 13px 0 0;
     margin-bottom: 22px;
 }
 .section-04 .title h2 {
@@ -381,7 +380,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 0 13px 0 10px;
+    padding: 0 13px 0 0;
     margin-bottom: 22px;
 }
 .section-05 .title h2 {
@@ -424,7 +423,6 @@ body {
 .section-06 h2 {
     font-size: 20px;
     margin-bottom: 22px;
-    margin-left: 10px;
 }
 .section-06 p {
     font-size: 15px;
@@ -465,7 +463,6 @@ body {
 }
 .section-06 .check input {
     border-color: #666;
-    margin-left: 6px;
 }
 .section-06 .check label {
     font-size: 13px;
@@ -533,6 +530,7 @@ body {
     position: absolute;
     top: 50%;
     left: -18px;
+    transform: translateY(-50%);
 }
 .navigation_bar {
     width: 100%;
