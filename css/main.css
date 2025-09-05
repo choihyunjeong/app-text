@@ -558,7 +558,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0 19px;
-    margin-top: 6px;
+    margin-top: 10px;
 }
 .navigation_bar .list .item {
     display: flex;
