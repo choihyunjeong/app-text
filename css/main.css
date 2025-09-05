@@ -96,6 +96,29 @@ body {
     object-fit: cover;
     display: block;
 }
+.main_visual .visual_img .search {
+    width: calc(100% - 32px);
+    height: 38px;
+    background-color: #ffffff80;
+    border: 1px solid #ffffff60;
+    border-radius: 8px;
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 14px;
+}
+.main_visual .visual_img .search input {
+    background-color: transparent;
+    border: 0;
+}
+.main_visual .visual_img .search input::placeholder {
+    color: #333;
+    font-size: 14px;
+}
 .section-01 .title {
     margin: 50px 0 22px;
     display: flex;
