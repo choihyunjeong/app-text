@@ -188,7 +188,7 @@ body {
     margin-top: 100px;
 }
 .section-02 .title {
-    padding: 0 29px 0 26px;
+    padding: 0 13px 0 10px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -215,7 +215,6 @@ body {
     border-radius: 8px;
     overflow: hidden;
     position: relative;
-    margin-left: 16px;
 }
 .section-02 .list .item .img_box {
     width: 100%;
@@ -286,7 +285,7 @@ body {
 .section-03 .title {
     display: flex;
     justify-content: space-between;
-    padding: 0 29px 0 26px;
+    padding: 0 13px 0 10px;
     align-items: flex-end;
     margin-bottom: 16px;
 }
@@ -326,7 +325,6 @@ body {
     border-top: 0.5px solid #DBDBDB;
     border-bottom: 0.5px solid #DBDBDB;
     padding: 20px 0;
-    margin: 0 16px;
     display: flex;
     justify-content: space-between;
 }
@@ -343,7 +341,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 0 29px 0 26px;
+    padding: 0 13px 0 10px;
     margin-bottom: 22px;
 }
 .section-04 .title h2 {
@@ -383,7 +381,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 0 29px 0 26px;
+    padding: 0 13px 0 10px;
     margin-bottom: 22px;
 }
 .section-05 .title h2 {
@@ -410,10 +408,9 @@ body {
     justify-content: space-between;
     border-top: 0.5px solid #DBDBDB;
     border-bottom: 0.5px solid #DBDBDB;
-    padding: 20px 16px;
+    padding: 20px 0;
     display: flex;
     justify-content: space-between;
-    margin: 0 16px;
 }
 .section-05 .list .item h3 {
     font-size: 14px;
@@ -427,16 +424,14 @@ body {
 .section-06 h2 {
     font-size: 20px;
     margin-bottom: 22px;
-    margin-left: 26px;
+    margin-left: 10px;
 }
 .section-06 p {
     font-size: 15px;
-    margin-left: 16px;
     margin-bottom: 14px;
 }
 .section-06 .mail {
     height: 34px;
-    margin: 0 16px;
     display: flex;
 }
 .section-06 .mail input {
@@ -466,7 +461,6 @@ body {
     display: flex;
     gap: 6px;
     align-items: center;
-    padding: 0 16px;
     margin: 10px 0 60px;
 }
 .section-06 .check input {
@@ -479,7 +473,7 @@ body {
 }
 .footer {
     background-color: #D9D9D9;
-    padding: 20px 28px 75px;
+    padding: 20px 12px 75px;
 }
 .footer .icon {
     display: flex;
