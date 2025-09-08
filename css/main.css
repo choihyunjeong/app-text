@@ -21,15 +21,16 @@ body {
 }
 #wrap {
     max-width: 500px;
-    width: calc(100% - 32px);
     margin: 0 auto;
     background-color: #fff;
 }
 .header {
+    width: calc(100% - 32px);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 16px 0 20px;
+    margin: 0 auto;
 }
 .header .logo {
     width: 145px;
@@ -120,6 +121,13 @@ body {
 .main_visual .visual_img .search input::placeholder {
     color: #333;
     font-size: 14px;
+}
+section {
+    width: calc(100% - 32px);
+    margin: 0 auto;
+}
+.main_visual {
+    width: 100%;
 }
 .section-01 .title {
     margin: 50px 0 22px;
